@@ -4,6 +4,10 @@
 
 本專案目標是把「量化評分」、「RAG 投資規則檢索」與「LLM 投資建議整理」整合成一個可操作的 Web App。
 
+## Live Demo
+
+[點此開啟 Streamlit App] (https://stockaiassistant.streamlit.app/)
+
 ## Demo 功能
 
 - 輸入可用資金
