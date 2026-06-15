@@ -34,7 +34,7 @@ LangChain Prompt 整合量化分數、資金配置與 RAG 內容
 Gemini 產生投資建議
 ↓
 Streamlit 顯示結果
-
+```
 ## 使用技術
 
 - Python
