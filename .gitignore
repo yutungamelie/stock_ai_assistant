@@ -1,0 +1,15 @@
+.venv/
+.env
+.env.bak
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+vector_db/
+data/prices/
+exports/*.json
+
+app_day5_backup.py
+
+*.log
