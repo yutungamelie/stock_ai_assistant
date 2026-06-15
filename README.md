@@ -45,10 +45,10 @@ Streamlit 顯示結果
 - yfinance
 - pandas
 - NumPy
-
+```
 ## 專案結構
 
-```
+
 tw_stock_ai_assistant/
 ├── app.py
 ├── env_settings.py
@@ -83,7 +83,7 @@ tw_stock_ai_assistant/
     ├── test_rag_retrieval.py
     ├── test_final_decision.py
     └── run_all_tests.py
-```
+
 
 ## 量化評分邏輯
 
