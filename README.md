@@ -1,4 +1,4 @@
-# 股票要賺錢：台股量化 RAG 投資助理
+# 股票量化 RAG 投資助理
 
 這是一個使用 Streamlit、LangChain、Gemini、Chroma、yfinance 建立的台股量化 RAG 投資助理。
 
