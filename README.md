@@ -49,7 +49,7 @@ Streamlit 顯示結果
 ## 專案結構
 
 ```text
-tw_stock_ai_assistant/
+stock_ai_assistant/
 ├── app.py
 ├── env_settings.py
 ├── requirements.txt
