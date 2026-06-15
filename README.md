@@ -6,7 +6,7 @@
 
 ## Live Demo
 
-[點此開啟 Streamlit App] (https://stockaiassistant.streamlit.app/)
+點此開啟 Streamlit App
 
 ## Demo 功能
 
